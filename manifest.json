@@ -1,0 +1,10 @@
+{
+  "name": "Findings",
+  "version": "1.0",
+  "description": "The Findings clipping extension",
+  "background_page": "background.html",
+  "permissions": ["contextMenus", "tabs"],
+  "icons" : {
+    "16" : "icon.png"
+  }
+}
